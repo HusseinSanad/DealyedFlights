@@ -39,8 +39,19 @@ Dashboard Interaction<a href="https://github.com/HusseinSanad/DealyedFlights/blo
 •	Visualizations: Designed charts (bar, line, scatter, and donut) for each KPI.
 •	Dashboard Design: Built three interactive pages with slicers to filter by origin, destination, month, or carrier.
 •	Interactivity: All pages update dynamically based on slicer selection, allowing detailed drill-down analysis.
-## Dashboard
+## Dashboards
 <img width="908" height="504" alt="1" src="https://github.com/user-attachments/assets/b53492a2-c88f-4413-ac95-f84a16dfe21b" />
 
 <img width="889" height="498" alt="2" src="https://github.com/user-attachments/assets/6cb4ac6b-aeaf-4716-84cb-48d1b92b3b62" />
 <img width="892" height="499" alt="3" src="https://github.com/user-attachments/assets/7b64fbdb-e481-4d99-a7e6-bb3bb69061c2" />
+
+## Project Insights
+•	Delay Rate: Only 1% of total flights experienced delays, but significant for operational planning.
+•	Top Delay Causes: Carrier delays (~30%) and Late Aircraft delays (~40%) are the main contributors.
+•	High-Risk Airports: CMX, PLN, and SPI airports show consistently higher delays.
+•	Distance vs Delay: Longer flights tend to have more cumulative delays.
+•	Monthly Trends: December has the highest average departure delays (~50 minutes).
+•	Day-of-Week Trends: Delays vary across weekdays, helping optimize staffing and scheduling.
+
+## Conclusion
+This interactive Power BI dashboard enables a comprehensive understanding of flight delays across multiple dimensions: origin, destination, month, and carrier. It provides operational teams with actionable insights to reduce delays, optimize routes, and enhance passenger satisfaction.
